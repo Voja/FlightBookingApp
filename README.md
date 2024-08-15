@@ -1,5 +1,5 @@
 # FlightBookingApp
-Full Stack - C#, React, SQL Server Flight Booking App with SignalR
+Full Stack - C#, React, TypeScript, SQL Server Flight Booking App with SignalR
 
 
 The FlightBookingApp is a comprehensive web application designed to streamline the process of booking flights for travelers. Built using a combination of C# for the backend, MySQL for database management, and React for the frontend, this app provides a robust and user-friendly platform for managing flight reservations. 
