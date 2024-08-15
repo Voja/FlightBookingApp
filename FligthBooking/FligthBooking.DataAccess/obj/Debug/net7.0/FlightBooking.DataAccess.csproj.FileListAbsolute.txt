@@ -1,0 +1,17 @@
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.DataAccess.deps.json
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.DataAccess.runtimeconfig.json
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.DataAccess.dll
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.DataAccess.pdb
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.Domain.dll
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\bin\Debug\net7.0\FlightBooking.Domain.pdb
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.AssemblyInfo.cs
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.csproj.CopyComplete
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.dll
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\refint\FlightBooking.DataAccess.dll
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.pdb
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\FlightBooking.DataAccess.genruntimeconfig.cache
+C:\Users\david\Desktop\FlightBooking\FligthBooking\FligthBooking.DataAccess\obj\Debug\net7.0\ref\FlightBooking.DataAccess.dll
